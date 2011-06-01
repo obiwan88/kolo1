@@ -1,4 +1,4 @@
-// Rafa³, Grycuk, IV(ZSZIAD), 101337
+// Imie, nazwisko, grupa(specjalnosc), nr indeksu
 
 #include <iostream>
 using namespace std;
