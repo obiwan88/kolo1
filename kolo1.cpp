@@ -1,5 +1,5 @@
 // Imie, nazwisko, grupa(specjalnosc), nr indeksu
-
+sakasdkasjkldsjl
 #include <iostream>
 using namespace std;
 
